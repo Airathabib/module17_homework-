@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "remove": "^0.1.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
